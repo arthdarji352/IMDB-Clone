@@ -2,7 +2,7 @@
 
 
 
-Project LIVE Link:https://imdb-clone-arthur.netlify.app/imdb
+Project LIVE Link:https://arth-imdb.netlify.app/imdb
 
 
 # Getting Started with Create React App
